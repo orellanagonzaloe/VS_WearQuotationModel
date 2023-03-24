@@ -1,0 +1,12 @@
+D:\VisualStudio\tests\QuarkAcademy_DesafioFinal\QuarkAcademy_DesafioFinal\bin\Debug\QuarkAcademy_DesafioFinal.exe.config
+D:\VisualStudio\tests\QuarkAcademy_DesafioFinal\QuarkAcademy_DesafioFinal\bin\Debug\QuarkAcademy_DesafioFinal.exe
+D:\VisualStudio\tests\QuarkAcademy_DesafioFinal\QuarkAcademy_DesafioFinal\bin\Debug\QuarkAcademy_DesafioFinal.pdb
+D:\VisualStudio\tests\QuarkAcademy_DesafioFinal\QuarkAcademy_DesafioFinal\obj\Debug\QuarkAcademy_DesafioFinal.csproj.AssemblyReference.cache
+D:\VisualStudio\tests\QuarkAcademy_DesafioFinal\QuarkAcademy_DesafioFinal\obj\Debug\QuarkAcademy_DesafioFinal.csproj.SuggestedBindingRedirects.cache
+D:\VisualStudio\tests\QuarkAcademy_DesafioFinal\QuarkAcademy_DesafioFinal\obj\Debug\QuarkAcademy_DesafioFinal.Properties.Resources.resources
+D:\VisualStudio\tests\QuarkAcademy_DesafioFinal\QuarkAcademy_DesafioFinal\obj\Debug\QuarkAcademy_DesafioFinal.csproj.GenerateResource.cache
+D:\VisualStudio\tests\QuarkAcademy_DesafioFinal\QuarkAcademy_DesafioFinal\obj\Debug\QuarkAcademy_DesafioFinal.csproj.CoreCompileInputs.cache
+D:\VisualStudio\tests\QuarkAcademy_DesafioFinal\QuarkAcademy_DesafioFinal\obj\Debug\QuarkAcademy_DesafioFinal.exe
+D:\VisualStudio\tests\QuarkAcademy_DesafioFinal\QuarkAcademy_DesafioFinal\obj\Debug\QuarkAcademy_DesafioFinal.pdb
+D:\VisualStudio\tests\QuarkAcademy_DesafioFinal\QuarkAcademy_DesafioFinal\obj\Debug\QuarkAcademy_DesafioFinal.Form1.resources
+D:\VisualStudio\tests\QuarkAcademy_DesafioFinal\QuarkAcademy_DesafioFinal\obj\Debug\QuarkAcademy_DesafioFinal.View.Form2.resources

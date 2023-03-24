@@ -1,3 +1,3 @@
 # VS_WearQuotationModel
 
-To execute: double click in bin/Debug/QuarkAcademy_DesafioFinal.exe
+To execute: double click in QuarkAcademy_DesafioFinal/bin/Debug/QuarkAcademy_DesafioFinal.exe
